@@ -9,4 +9,4 @@ Tools used:
 * tox
 * make
 
-It's meant to be an interactive one hour workshop where the [accomanying slides](https://docs.google.com/presentation/d/1wv5c1NGl5iGUclSOFXB5qeKyITqLLvB1LwkzPCS4_mM/edit?usp=sharing) guide you through building up and understanding the framework step by step.
+It's meant to be an interactive one hour workshop where the [accompanying slides](https://docs.google.com/presentation/d/1wv5c1NGl5iGUclSOFXB5qeKyITqLLvB1LwkzPCS4_mM/edit?usp=sharing) guide you through building up and understanding the framework step by step.
